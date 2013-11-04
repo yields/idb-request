@@ -1,0 +1,15 @@
+{
+  "name": "idb-request",
+  "repo": "yields/idb-request",
+  "description": "Tiny IDBRequest wrapper that allows node style callbacks",
+  "version": "0.0.1",
+  "keywords": ["idb", "request", "idbrequest"],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "development": {
+    "visionmedia/mocha-matrix": "*",
+    "visionmedia/mocha": "*",
+    "component/assert": "*"
+  }
+}
